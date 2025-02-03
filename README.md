@@ -15,4 +15,12 @@ this is an auto pushed repository for [LeetHub](https://github.com/QasimWani/Lee
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hyun7586/PS_LeetCode/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/hyun7586/PS_LeetCode/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/hyun7586/PS_LeetCode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
