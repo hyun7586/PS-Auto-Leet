@@ -7,10 +7,12 @@ this is an auto pushed repository for [LeetHub](https://github.com/QasimWani/Lee
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hyun7586/PS_LeetCode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/hyun7586/PS_LeetCode/tree/master/0016-3sum-closest) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hyun7586/PS_LeetCode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/hyun7586/PS_LeetCode/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
@@ -32,4 +34,8 @@ this is an auto pushed repository for [LeetHub](https://github.com/QasimWani/Lee
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hyun7586/PS_LeetCode/tree/master/0002-add-two-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/hyun7586/PS_LeetCode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
