@@ -20,9 +20,7 @@ public:
 
         if (N == n) {
             head = head->next;
-        }
-
-        if (count != 0) {
+        }else{
             ListNode* current = head;
             ListNode* prev = head;
             for (int i = 0; i < count; i++) {
