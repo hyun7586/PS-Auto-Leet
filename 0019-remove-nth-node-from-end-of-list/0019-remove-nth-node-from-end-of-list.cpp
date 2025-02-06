@@ -11,26 +11,25 @@
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
+        // the number of nodes
         int N = 0;
-        for (ListNode* ptr = head; ptr; ptr = ptr->next)
-            N += 1;
+        for (ListNode* ptr = head; ptr; ptr = ptr->next)    N += 1;
 
-        // the index which is going to removed
-        int count = N - n;
+
+        int index = N - n;
 
         if (N == n) {
             head = head->next;
         }else{
             ListNode* current = head;
             ListNode* prev = head;
-            for (int i = 0; i < count; i++) {
+
+            for (int i = 0; i < index; i++) {
                 prev = current;
                 current = current->next;
-                cout << prev->val << " " << current->val << '\n';
             }
 
             prev->next = current->next;
-            current->next = NULL;
         }
 
         return head;
