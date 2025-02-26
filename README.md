@@ -10,6 +10,7 @@ this is an auto pushed repository for [LeetHub](https://github.com/QasimWani/Lee
 | [0016-3sum-closest](https://github.com/hyun7586/PS_LeetCode/tree/master/0016-3sum-closest) |
 | [0074-search-a-2d-matrix](https://github.com/hyun7586/PS_LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/hyun7586/PS_LeetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/hyun7586/PS_LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ this is an auto pushed repository for [LeetHub](https://github.com/QasimWani/Lee
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/hyun7586/PS_LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/hyun7586/PS_LeetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/hyun7586/PS_LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
