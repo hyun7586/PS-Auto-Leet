@@ -1,5 +1,5 @@
 
-# This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetHub)
+This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetHub)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
