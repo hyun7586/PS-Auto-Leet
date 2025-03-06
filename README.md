@@ -61,4 +61,20 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/hyun7586/PS_LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/hyun7586/PS_LeetCode/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/hyun7586/PS_LeetCode/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/hyun7586/PS_LeetCode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/hyun7586/PS_LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
