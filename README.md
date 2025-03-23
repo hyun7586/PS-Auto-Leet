@@ -11,6 +11,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 | [0033-search-in-rotated-sorted-array](https://github.com/hyun7586/PS_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/hyun7586/PS_LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/hyun7586/PS_LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/hyun7586/PS_LeetCode/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hyun7586/PS_LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/hyun7586/PS_LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/hyun7586/PS_LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -32,6 +33,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/hyun7586/PS_LeetCode/tree/master/0078-subsets) |
 | [0371-sum-of-two-integers](https://github.com/hyun7586/PS_LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Linked List
 |  |
@@ -81,4 +83,8 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hyun7586/PS_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/hyun7586/PS_LeetCode/tree/master/0226-invert-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/hyun7586/PS_LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
