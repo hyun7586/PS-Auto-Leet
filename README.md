@@ -10,6 +10,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 | [0016-3sum-closest](https://github.com/hyun7586/PS_LeetCode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hyun7586/PS_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/hyun7586/PS_LeetCode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/hyun7586/PS_LeetCode/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/hyun7586/PS_LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/hyun7586/PS_LeetCode/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hyun7586/PS_LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -86,5 +87,6 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/hyun7586/PS_LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/hyun7586/PS_LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
