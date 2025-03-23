@@ -10,7 +10,7 @@ public:
                 temp.push_back(nums[each]);
             
             sort(temp.begin(), temp.end());
-            
+
             result.push_back(temp);
             return;
         }
