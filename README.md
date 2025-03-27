@@ -89,7 +89,16 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hyun7586/PS_LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/hyun7586/PS_LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/hyun7586/PS_LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hyun7586/PS_LeetCode/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/hyun7586/PS_LeetCode/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/hyun7586/PS_LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
