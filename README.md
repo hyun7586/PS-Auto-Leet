@@ -13,6 +13,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 | [0046-permutations](https://github.com/hyun7586/PS_LeetCode/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/hyun7586/PS_LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/hyun7586/PS_LeetCode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/hyun7586/PS_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/hyun7586/PS_LeetCode/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hyun7586/PS_LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/hyun7586/PS_LeetCode/tree/master/0792-binary-search) |
@@ -23,6 +24,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 | [0011-container-with-most-water](https://github.com/hyun7586/PS_LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/hyun7586/PS_LeetCode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hyun7586/PS_LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/hyun7586/PS_LeetCode/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -53,6 +55,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/hyun7586/PS_LeetCode/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/hyun7586/PS_LeetCode/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
