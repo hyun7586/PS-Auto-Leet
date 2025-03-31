@@ -8,6 +8,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 | ------- |
 | [0011-container-with-most-water](https://github.com/hyun7586/PS_LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/hyun7586/PS_LeetCode/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/hyun7586/PS_LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hyun7586/PS_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/hyun7586/PS_LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/hyun7586/PS_LeetCode/tree/master/0046-permutations) |
@@ -24,6 +25,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 | [0011-container-with-most-water](https://github.com/hyun7586/PS_LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/hyun7586/PS_LeetCode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hyun7586/PS_LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/hyun7586/PS_LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/hyun7586/PS_LeetCode/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
