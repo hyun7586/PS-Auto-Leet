@@ -1,11 +1,6 @@
 class Solution {
 public:
     bool isSubsequence(string s, string t) {
-        // // exception
-        // if(s=="")   return true;
-        // if(t=="")   return false;
-
-
         // whether s is a subsequence of t
         int i=0, j=0;
 
