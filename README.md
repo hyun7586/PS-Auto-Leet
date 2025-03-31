@@ -29,6 +29,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hyun7586/PS_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hyun7586/PS_LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/hyun7586/PS_LeetCode/tree/master/0088-merge-sorted-array) |
+| [0392-is-subsequence](https://github.com/hyun7586/PS_LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -104,8 +105,10 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hyun7586/PS_LeetCode/tree/master/0022-generate-parentheses) |
+| [0392-is-subsequence](https://github.com/hyun7586/PS_LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hyun7586/PS_LeetCode/tree/master/0022-generate-parentheses) |
+| [0392-is-subsequence](https://github.com/hyun7586/PS_LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
