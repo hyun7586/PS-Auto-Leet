@@ -13,6 +13,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 | [0033-search-in-rotated-sorted-array](https://github.com/hyun7586/PS_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/hyun7586/PS_LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/hyun7586/PS_LeetCode/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/hyun7586/PS_LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/hyun7586/PS_LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/hyun7586/PS_LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/hyun7586/PS_LeetCode/tree/master/0088-merge-sorted-array) |
@@ -78,6 +79,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hyun7586/PS_LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/hyun7586/PS_LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Tree
 |  |
@@ -130,4 +132,8 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hyun7586/PS_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/hyun7586/PS_LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
