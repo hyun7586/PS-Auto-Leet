@@ -113,6 +113,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hyun7586/PS_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/hyun7586/PS_LeetCode/tree/master/0022-generate-parentheses) |
+| [0383-ransom-note](https://github.com/hyun7586/PS_LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/hyun7586/PS_LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -132,8 +133,13 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hyun7586/PS_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/hyun7586/PS_LeetCode/tree/master/0383-ransom-note) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hyun7586/PS_LeetCode/tree/master/0054-spiral-matrix) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/hyun7586/PS_LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
