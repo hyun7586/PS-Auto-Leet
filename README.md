@@ -20,6 +20,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 | [0090-subsets-ii](https://github.com/hyun7586/PS_LeetCode/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hyun7586/PS_LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hyun7586/PS_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/hyun7586/PS_LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/hyun7586/PS_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/hyun7586/PS_LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/hyun7586/PS_LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -81,6 +82,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 | ------- |
 | [0054-spiral-matrix](https://github.com/hyun7586/PS_LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/hyun7586/PS_LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/hyun7586/PS_LeetCode/tree/master/0200-number-of-islands) |
 ## Tree
 |  |
 | ------- |
@@ -90,11 +92,13 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hyun7586/PS_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/hyun7586/PS_LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/hyun7586/PS_LeetCode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hyun7586/PS_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/hyun7586/PS_LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/hyun7586/PS_LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -142,4 +146,8 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/hyun7586/PS_LeetCode/tree/master/0383-ransom-note) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/hyun7586/PS_LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
