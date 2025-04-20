@@ -21,6 +21,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 | [0090-subsets-ii](https://github.com/hyun7586/PS_LeetCode/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hyun7586/PS_LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hyun7586/PS_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/hyun7586/PS_LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/hyun7586/PS_LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/hyun7586/PS_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/hyun7586/PS_LeetCode/tree/master/0792-binary-search) |
@@ -68,6 +69,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 | ------- |
 | [0016-3sum-closest](https://github.com/hyun7586/PS_LeetCode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/hyun7586/PS_LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/hyun7586/PS_LeetCode/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,6 +141,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hyun7586/PS_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/hyun7586/PS_LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/hyun7586/PS_LeetCode/tree/master/0383-ransom-note) |
 ## Simulation
 |  |
@@ -147,9 +150,14 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hyun7586/PS_LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/hyun7586/PS_LeetCode/tree/master/0383-ransom-note) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/hyun7586/PS_LeetCode/tree/master/0200-number-of-islands) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hyun7586/PS_LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
