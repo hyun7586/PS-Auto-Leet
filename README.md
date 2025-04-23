@@ -24,6 +24,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 | [0169-majority-element](https://github.com/hyun7586/PS_LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/hyun7586/PS_LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/hyun7586/PS_LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0228-summary-ranges](https://github.com/hyun7586/PS_LeetCode/tree/master/0228-summary-ranges) |
 | [0792-binary-search](https://github.com/hyun7586/PS_LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/hyun7586/PS_LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Two Pointers
