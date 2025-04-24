@@ -19,6 +19,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hyun7586/PS_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hyun7586/PS_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/hyun7586/PS_LeetCode/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hyun7586/PS_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hyun7586/PS_LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hyun7586/PS_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/hyun7586/PS_LeetCode/tree/master/0169-majority-element) |
@@ -92,6 +93,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hyun7586/PS_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hyun7586/PS_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/hyun7586/PS_LeetCode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -109,6 +111,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hyun7586/PS_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hyun7586/PS_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/hyun7586/PS_LeetCode/tree/master/0226-invert-binary-tree) |
 ## Backtracking
 |  |
@@ -160,5 +163,10 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hyun7586/PS_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/hyun7586/PS_LeetCode/tree/master/0169-majority-element) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hyun7586/PS_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
