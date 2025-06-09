@@ -20,6 +20,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 | [0088-merge-sorted-array](https://github.com/hyun7586/PS_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/hyun7586/PS_LeetCode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hyun7586/PS_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hyun7586/PS_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hyun7586/PS_LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hyun7586/PS_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/hyun7586/PS_LeetCode/tree/master/0169-majority-element) |
@@ -131,6 +132,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hyun7586/PS_LeetCode/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hyun7586/PS_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/hyun7586/PS_LeetCode/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
