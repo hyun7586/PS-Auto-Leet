@@ -51,6 +51,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hyun7586/PS_LeetCode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/hyun7586/PS_LeetCode/tree/master/0062-unique-paths) |
 | [0371-sum-of-two-integers](https://github.com/hyun7586/PS_LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
@@ -134,6 +135,7 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hyun7586/PS_LeetCode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/hyun7586/PS_LeetCode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hyun7586/PS_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hyun7586/PS_LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/hyun7586/PS_LeetCode/tree/master/0392-is-subsequence) |
@@ -174,4 +176,8 @@ This is an auto push repository for [LeetHub](https://github.com/QasimWani/LeetH
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hyun7586/PS_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/hyun7586/PS_LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
